@@ -1,0 +1,61 @@
+ /*代码生成页面样式*/
+
+  .code{
+   max-width: 1193px;
+max-height:500px;
+            padding: 19px 29px 29px;
+            margin: 15px auto 20px;
+            background-color: #fff;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            border-radius: 10px;
+            -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+            -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+            box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    opacity: 0.7;}
+    #title {
+            padding: 2px;
+            margin: 0 0 10px;
+        }
+    h1 {
+            font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+            font-weight: 500;
+            width: 400px;
+      margin: 5px auto;
+	  text-align: center;}
+  h4{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:left;
+  }
+    p{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-align:left;
+      float:right;
+	  
+  }
+  .c{
+    color:#fff;
+    border-radius:5px 5px;
+     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    word-wrap: break-word;
+    word-break: normal;
+    font-size: 16px;
+    background: #000;
+    opacity: 0.66;
+	max-height: 233px;
+    overflow-y: auto;
+  }
+  .y{
+	      max-width: 1193px;
+    padding: 19px 29px 29px;
+    margin: 15px auto 20px;
+    background-color: #fff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    opacity: 0.7;
+	max-height：333px;
+	 }
