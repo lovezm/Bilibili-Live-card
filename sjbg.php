@@ -26,3 +26,4 @@ $sjbg =array(
 );
 $r =rand(1,count($sjbg));
 ?>
+ 
